@@ -1,0 +1,13 @@
+.caixa2{
+    display: flex;
+}
+.caixa2 > div{
+    background-color: blue;
+    border: solid 2px;
+    margin: 1%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}

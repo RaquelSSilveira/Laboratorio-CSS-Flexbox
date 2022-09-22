@@ -1,0 +1,26 @@
+
+.caixa1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.caixa2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-top: 30%;
+}
+
+.caixa1 > div{
+    background-color: blue;
+    border: solid 2px;
+    margin: 1%;
+    width: 150px;
+    height: 150px;
+}
+.caixa2 > div{
+    background-color: blue;
+    border: solid 2px;
+    width: 150px;
+    height: 150px;
+}

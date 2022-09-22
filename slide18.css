@@ -1,0 +1,24 @@
+.caixa1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.caixa1 > div{
+    background-color: blue;
+    border: solid 2px;
+    margin: 1%;
+    width: 350px;
+    height: 100;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+.caixa1 #div1{
+    width: 200px;
+    height: 100px;
+    line-height: 100px;
+
+}
